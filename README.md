@@ -1,4 +1,6 @@
-### Hi there 👋
+# Hi there, i'm Nans! 👋
+
+A final-year **Informatics engineering student**, concentrated in **Artificial Intelligence (AI)** whose highly motivated, visionary, and have the capability to be a groundbreaker.
 
 <!--
 **nandahadymulya/nandahadymulya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
