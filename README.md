@@ -13,9 +13,9 @@ A final-year **Informatics engineering student**, concentrated in **Artificial I
 ### Let's connect!
 <p>
 <!--     <a href="https://bagusfe.id" target="blank"><img src="https://img.shields.io/badge/Website-https://bagusfe.com-green?" /></a> -->
-    <a href="https://linkedin.com/in/nandahadymulya" target="blank"><img src="https://img.shields.io/badge/Nanda_Hady_Mulya-30302f?style=flat&logo=linkedin" /></a>
-    <a href="https://medium.com/@nandahadymulya" target="blank"><img src="https://img.shields.io/badge/Nanda_Hady_Mulya-30302f?style=flat&logo=medium" /></a>
-    <a href="https://twitter.com/acronymcode" target="blank"><img src="https://img.shields.io/badge/@acronymcode-30302f?style=flat&logo=twitter" /></a>
+    <a href="https://linkedin.com/in/nandahadymulya" target="blank"><img src="https://img.shields.io/badge/LinkedIn-30302f?style=flat&logo=linkedin" /></a>
+    <a href="https://medium.com/@nandahadymulya" target="blank"><img src="https://img.shields.io/badge/Medium-30302f?style=flat&logo=medium" /></a>
+    <a href="https://twitter.com/acronymcode" target="blank"><img src="https://img.shields.io/badge/Twitter-30302f?style=flat&logo=twitter" /></a>
 <!--     <a href="https://www.paypal.me/gewdfe" target="blank"><img src="https://ionicabizau.github.io/badges/paypal.svg" /></a> -->
 </p>
 
