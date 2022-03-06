@@ -5,7 +5,8 @@ A final-year **Informatics engineering student**, concentrated in **Artificial I
 ### Stats:
 <p>
     <img src="https://github-readme-stats.vercel.app/api?username=nandahadymulya&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" />
-<!--     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandahadymulya&layout=compact" height=150 /> -->
+    ![](https://komarev.com/ghpvc/?username=nandahadymulya&color=blue)
+    <!--     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandahadymulya&layout=compact" height=150 /> -->
 </p>
 
 ### Let's connect!
