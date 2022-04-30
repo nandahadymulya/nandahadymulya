@@ -1,4 +1,4 @@
-# Hi, I'm Nanda! 🙌  
+# Hi, I'm Nanda 🙌 
 
 A final-year **Informatics engineering student**, concentrated in **Artificial Intelligence (AI)** whose highly motivated, visionary, and have the capability to be a groundbreaker.
 
