@@ -2,7 +2,7 @@
 
 ## Front-End Enginner, AI Enthusiast
 
-A graduated **Informatics engineering**, concentrated in **Artificial Intelligence (AI)** whose highly motivated, visionary, and have the capability to be a groundbreaker.
+A graduated **Informatics Engineering** student, concentrated in Artificial Intelligence (AI) who is highly motivated, visionary, and capable of being a groundbreaker.
 
 - :blue_heart: **Hands On**: PHP, VueJS
 - :green_apple: **Learn**: Python, Django
