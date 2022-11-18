@@ -1,11 +1,11 @@
 # Hi, I'm Nanda 🙌 
 
-## Front-End Enginner, AI Enthusiast
+## Software Enginner, AI Enthusiast
 
-A fresh graduate **Informatics Engineering**, concentrated in Artificial Intelligence (AI) who is highly motivated, visionary, and capable of being a groundbreaker.
+An informatics engineering graduate student, concentrating on Frontend Developer, Software Engineering and Artificial Intelligence (AI), who is motivated, visionary, and capable of being a groundbreaker. Seeking MT Program as a platform for learning and growing. During the lectures, successfully led an internal technology organization by demonstrating the values of professionalism, utilization of technology, teamwork, and persuasive communication.
 
-- :blue_heart: **Hands On**: PHP, VueJS
-- :green_apple: **Learn**: Python, Django
+- :blue_heart: **Hands On**: PHP, Vue JS, Nuxt JS, Next JS, Python, Django Framework
+<!-- - :green_apple: **Learn**:  -->
 
 ### Let's connect!
 <p>
