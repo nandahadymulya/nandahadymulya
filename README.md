@@ -1,6 +1,6 @@
 # Hi, I'm Nanda 🙌 
 
-## Software Engineer, AI Enthusiast
+## Software Engineer, Artificial Intelligence Enthusiast
 
 An informatics engineering graduate student, concentrating on Software Engineering and Artificial Intelligence (AI), who is motivated, visionary, and capable of being a groundbreaker. Seeking MT Program as a platform for learning and growing. During the lectures, successfully led an internal technology organization by demonstrating the values of professionalism, utilization of technology, teamwork, and persuasive communication.
 
