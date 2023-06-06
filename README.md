@@ -9,7 +9,7 @@
 <!-- - :green_apple: **Back End Stack**: Python, Django REST framework, nodejs, Express, PHP, Laravel/Lumen, CodeIgniter -->
 <!-- - :blue_heart: **Database**: MySQL, Postgresql, SQLite -->
 
-### Let's connect!
+<!-- ### Let's connect!
 <p>
     <a href="https://linkedin.com/in/nandahadymulya" target="blank"><img src="https://img.shields.io/badge/LinkedIn-30302f?style=flat&logo=linkedin" /></a>
-</p>
+</p> -->
